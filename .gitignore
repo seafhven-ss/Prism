@@ -1,0 +1,10 @@
+node_modules/
+runtime/
+vendor/
+.daemon-state/
+data/SOUL.md
+data/USER.md
+data/MEMORY.md
+data/logs/
+.env
+*.zip
